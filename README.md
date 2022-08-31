@@ -1,2 +1,1 @@
-My first readme
-school
+My new readme
